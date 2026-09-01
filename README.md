@@ -17,7 +17,8 @@ Students will practice working with:
 
 ## Project Description
 
-<!-- Developer A: Add the project description here. -->
+## Description 
+This project demonstrates collaborative development using Git. 
 
 ## Contributors
 
