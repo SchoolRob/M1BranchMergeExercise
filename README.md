@@ -22,7 +22,9 @@ This project demonstrates collaborative development using Git.
 
 ## Contributors
 
-<!-- Developer B: Add the contributor names here. -->
+Robert Mansfield
+Daisja Clark
+
 
 ## Exercise Goal
 
